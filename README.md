@@ -20,10 +20,9 @@
 ### Glad to see you here!  
 My name is Mauricio Ieiri.
 
-I’m a full-stack junior developer, currently finishing my studies at Trybe. 
+I’m a full-stack junior developer, graduated at Trybe. 
 
 My focus right now is learning on how to build a strong backend. Making your apps a lot lighter.
-Right now I'm in search of an opportunity to find my first job as a Web Developer.
 
 My hobbies are:
 - Watch/Read anime/manga;
